@@ -1,10 +1,10 @@
 window.TOWER_CFG = {
   NAME: "Super Intelligence Tower",
   TICKER: "TOWER",
-  CA: "",          // contract address, filled at launch
+  CA: "GkqzXTdrGkApj1qEUSN5dKYAm555zQSzRt1YmQbApump",
   CHAIN: "solana",
   PAD: "pumpfun",
-  X: "",           // X profile URL
+  X: "https://x.com/TowerOfAgents",
   BUY: "",         // default https://pump.fun/coin/<CA>
   CHART: "",       // default https://gmgn.ai/sol/token/<CA>
   API: "",         // "" = same origin; "demo" = force demo mode, no network calls
