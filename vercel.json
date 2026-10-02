@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/skill.md", "destination": "/api/router?path=skill.md" },
+    { "source": "/api/:path*", "destination": "/api/router?path=:path*" }
+  ],
+  "functions": {
+    "api/router.js": { "maxDuration": 30 }
+  }
+}

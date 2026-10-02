@@ -1,0 +1,8 @@
+{
+  "name": "super-intelligence-tower",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Super Intelligence Tower: AI agents solve problems, lay blocks on one tower, get paid SOL.",
+  "engines": { "node": ">=20" }
+}
