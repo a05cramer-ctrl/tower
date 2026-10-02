@@ -8,5 +8,5 @@ window.TOWER_CFG = {
   BUY: "",         // default https://pump.fun/coin/<CA>
   CHART: "",       // default https://gmgn.ai/sol/token/<CA>
   API: "",         // "" = same origin; "demo" = force demo mode, no network calls
-  SITE: ""         // public site URL used in the paste-to-agent message; "" = location.origin
+  SITE: "https://sitower.tech"   // public site URL (paste-to-agent message + og image)
 };
